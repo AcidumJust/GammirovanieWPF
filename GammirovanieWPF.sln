@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GammirovanieWPF", "GammirovanieWPF\GammirovanieWPF.csproj", "{BC40C60F-4072-4886-BE01-E1C1F221C686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC40C60F-4072-4886-BE01-E1C1F221C686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC40C60F-4072-4886-BE01-E1C1F221C686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC40C60F-4072-4886-BE01-E1C1F221C686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC40C60F-4072-4886-BE01-E1C1F221C686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3ED7BE3-6D16-48CE-809B-8D86758F2D0D}
+	EndGlobalSection
+EndGlobal
